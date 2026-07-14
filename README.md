@@ -88,9 +88,7 @@ Mensagem no WhatsApp
 <img src="profile/top-langs.svg" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=matheuscav&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheuscav&theme=tokyo-night&hide_border=true" />
