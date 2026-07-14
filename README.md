@@ -45,6 +45,15 @@
 
 ---
 
+## 🛠️ Inventário de Habilidades
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL%2FMariaDB-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
 ## 🎬 Projeto em Destaque: `whatsapp-financeiro`
 
 > Bot de controle financeiro do casal, direto pelo WhatsApp.
@@ -69,19 +78,15 @@ Mensagem no WhatsApp
 
 ---
 
-## 🛠️ Inventário de Habilidades
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL%2FMariaDB-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 📊 Estatísticas do Grimório (GitHub Stats)
+## 📊 Estatísticas do Grimório
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=matheuscav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscav&layout=pie&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=matheuscav&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -91,4 +96,3 @@ Mensagem no WhatsApp
 ---
 
 <p align="center"><i>Continua... a próxima região aguarda 🗝️</i></p>
-
