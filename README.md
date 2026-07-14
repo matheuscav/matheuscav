@@ -85,8 +85,8 @@ Mensagem no WhatsApp
 ## 📊 Estatísticas do Grimório
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=matheuscav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscav&layout=pie&theme=tokyonight&hide_border=true" />
+  <img src="profile/stats.svg" />
+<img src="profile/top-langs.svg" />
 </p>
 
 <p align="center">
