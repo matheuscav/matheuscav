@@ -20,9 +20,8 @@
 
 ## ⚡ Barra de XP
 
-![XP](https://progress-bar.dev/65/?title=Progresso%20da%20transi%C3%A7%C3%A3o%20de%20carreira&width=400&color=8A2BE2)
-
----
+![XP](https://img.shields.io/badge/Progresso%20da%20transi%C3%A7%C3%A3o-65%25-8A2BE2?style=for-the-badge)
+--- 
 
 ## 🗺️ Mapa de Regiões
 
