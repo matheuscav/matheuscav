@@ -1,7 +1,7 @@
 <h1 align="center">🗡️ Matheus — A Jornada do Analista 🗡️</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Carregando+aventura...;Classe%3A+Analista+de+Sistemas+em+forma%C3%A7%C3%A3o;Miss%C3%A3o+atual%3A+deploy+do+bot+financeiro" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&height=60&lines=Carregando+aventura...;Analista+de+Sistemas+em+forma%C3%A7%C3%A3o;Deploy+do+bot+financeiro" alt="Typing SVG" />
 </p>
 
 ---
