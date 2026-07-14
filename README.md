@@ -33,7 +33,11 @@
 🟡 Cloud & DevOps (Oracle Cloud, hardening)... EM PROGRESSO
 🔴 APIs REST avançadas......................... PRÓXIMA REGIÃO
 ```
-
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/matheuscav/matheuscav/output/github-snake.svg" />
+</p>
+---
 ---
 
 ## 🏆 Badges Conquistados
