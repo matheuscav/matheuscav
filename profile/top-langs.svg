@@ -125,8 +125,8 @@
       <g class="stagger" style="animation-delay: 100ms">
         <path
           data-testid="lang-pie"
-          size="53.96675966656967"
-          d="M 150 100 L 240 100 A 90 90 0 1 1 62.78095950480906 77.80002308338489 Z"
+          size="58.08424477775007"
+          d="M 150 100 L 240 100 A 90 90 0 1 1 71.36300667536364 56.22531232708684 Z"
           fill="#e34c26"
         />
       </g>
@@ -134,8 +134,8 @@
       <g class="stagger" style="animation-delay: 200ms">
         <path
           data-testid="lang-pie"
-          size="43.164507129041645"
-          d="M 150 100 L 62.78095950480906 77.80002308338489 A 90 90 0 0 1 238.54193654052267 83.86539515035913 Z"
+          size="29.94762905696676"
+          d="M 150 100 L 71.36300667536364 56.22531232708684 A 90 90 0 0 1 215.7304291549467 38.52227490296563 Z"
           fill="#663399"
         />
       </g>
@@ -143,8 +143,8 @@
       <g class="stagger" style="animation-delay: 300ms">
         <path
           data-testid="lang-pie"
-          size="2.8687332043886826"
-          d="M 150 100 L 238.54193654052267 83.86539515035913 A 90 90 0 0 1 240 99.99999999999997 Z"
+          size="11.968126165283172"
+          d="M 150 100 L 215.7304291549467 38.52227490296563 A 90 90 0 0 1 240 99.99999999999997 Z"
           fill="#f1e05a"
         />
       </g>
@@ -157,21 +157,21 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 53.97%
+        HTML 58.08%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 43.16%
+        CSS 29.95%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 2.87%
+        JavaScript 11.97%
       </text>
     </g>
   </g></g>
