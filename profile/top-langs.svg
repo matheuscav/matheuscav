@@ -125,8 +125,8 @@
       <g class="stagger" style="animation-delay: 100ms">
         <path
           data-testid="lang-pie"
-          size="58.08424477775007"
-          d="M 150 100 L 240 100 A 90 90 0 1 1 71.36300667536364 56.22531232708684 Z"
+          size="58.07428700393172"
+          d="M 150 100 L 240 100 A 90 90 0 1 1 71.33563376199552 56.274521336260904 Z"
           fill="#e34c26"
         />
       </g>
@@ -134,8 +134,8 @@
       <g class="stagger" style="animation-delay: 200ms">
         <path
           data-testid="lang-pie"
-          size="29.94762905696676"
-          d="M 150 100 L 71.36300667536364 56.22531232708684 A 90 90 0 0 1 215.7304291549467 38.52227490296563 Z"
+          size="29.954743606495065"
+          d="M 150 100 L 71.33563376199552 56.274521336260904 A 90 90 0 0 1 215.71944541481722 38.51053346817148 Z"
           fill="#663399"
         />
       </g>
@@ -143,8 +143,8 @@
       <g class="stagger" style="animation-delay: 300ms">
         <path
           data-testid="lang-pie"
-          size="11.968126165283172"
-          d="M 150 100 L 215.7304291549467 38.52227490296563 A 90 90 0 0 1 240 99.99999999999997 Z"
+          size="11.970969389573211"
+          d="M 150 100 L 215.71944541481722 38.51053346817148 A 90 90 0 0 1 240 99.99999999999997 Z"
           fill="#f1e05a"
         />
       </g>
@@ -157,7 +157,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 58.08%
+        HTML 58.07%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
